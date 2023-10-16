@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "technology:block/strippedprimitiveancientlog",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "technology:block/strippedprimitiveancientlog"
+    },
+    "axis=z": {
+      "model": "technology:block/strippedprimitiveancientlog",
+      "x": 90
+    }
+  }
+}

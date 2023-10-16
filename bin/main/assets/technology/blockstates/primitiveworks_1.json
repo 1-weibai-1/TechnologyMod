@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "technology:block/primitiveworks_1"
+    },
+    "facing=east": {
+      "model": "technology:block/primitiveworks_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "technology:block/primitiveworks_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "technology:block/primitiveworks_1",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "technology:blocks/dirt",
+    "top": "technology:blocks/primitive_ancient_grass_block_top",
+    "side": "technology:blocks/primitive_ancient_grass_block_side",
+    "overlay": "technology:blocks/primitive_ancient_grass_block_side_overlay",
+    "particle": "technology:blocks/dirt"
+  }
+}

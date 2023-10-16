@@ -1,0 +1,17 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Primitiveancientfence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "wooden_fences",
+    "namespace": "minecraft"
+  }
+}

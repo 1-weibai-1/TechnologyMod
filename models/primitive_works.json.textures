@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "primitive_works",
+        "missing": "primitive_works"
+      },
+      "name": "default"
+    }
+  }
+}

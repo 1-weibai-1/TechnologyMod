@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "technology:stonetoolworkbench",
+    "technology:primitiveancientlog",
+    "technology:strippedprimitiveancientlog",
+    "technology:primitiveancientplanks",
+    "technology:primitiveancientslab",
+    "technology:primitiveancientstairs",
+    "technology:primitiveancientwall",
+    "technology:primitiveancientfence",
+    "technology:primitiveancientfencegate",
+    "technology:primitiveancienttrapdoor",
+    "technology:primitiveancientdoor",
+    "technology:primitiveancientpressureplate",
+    "technology:primitiveancientbutton",
+    "technology:primitiveworks",
+    "technology:primitiveworks_1"
+  ]
+}

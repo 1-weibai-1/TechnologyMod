@@ -1,0 +1,5 @@
+
+[technology]
+	#When enabled baubles can render on player.
+	render_technologys = true
+

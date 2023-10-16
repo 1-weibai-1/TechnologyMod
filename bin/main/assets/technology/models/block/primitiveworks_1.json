@@ -1,0 +1,13 @@
+{
+  "parent": "technology:custom/primitive_works_1",
+  "textures": {
+    "all": "technology:blocks/primitive_works",
+    "particle": "technology:blocks/primitive_works",
+    "0": "technology:blocks/primitive_works",
+    "1_0": "technology:blocks/knife_stone",
+    "2": "technology:blocks/stone_knife_parts",
+    "3": "technology:blocks/rough_longbow",
+    "4": "technology:blocks/gravel_pick_head",
+    "missing": "technology:blocks/stripped_primitive_ancient_log_top"
+  }
+}

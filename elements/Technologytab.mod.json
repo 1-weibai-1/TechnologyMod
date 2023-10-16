@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Technologytab",
+    "icon": {
+      "value": "CUSTOM:Technologyitem"
+    },
+    "showSearch": true
+  }
+}

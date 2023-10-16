@@ -1,0 +1,15 @@
+{
+  "item.technologytest.amulet": "Curious Amulet",
+  "button.displayText": "Baubles",
+  "keybind.baublesinventory": "Open Baubles Inventory",
+  "name.AMULET": "Amulet",
+  "name.RING": "Ring",
+  "name.BELT": "Belt",
+  "name.TRINKET": "Trinket",
+  "name.HEAD": "Head",
+  "name.BODY": "Body",
+  "name.CHARM": "Charm",
+  "tooltip.technology.tooltip_1": "",
+  "tooltip.technology.tooltip.shift_down": ""
+
+}

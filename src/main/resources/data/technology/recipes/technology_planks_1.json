@@ -1,0 +1,13 @@
+{
+  "group": "stone_age",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "technology:primitiveancientlog"
+    }
+  ],
+  "result": {
+    "item": "technology:primitiveancientplanks",
+    "count": 4
+  }
+}

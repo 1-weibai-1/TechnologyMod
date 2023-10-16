@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technology:blocks/stripped_primitive_ancient_log_top",
+    "up": "technology:blocks/stripped_primitive_ancient_log_top",
+    "north": "technology:blocks/stripped_primitive_ancient_log",
+    "east": "technology:blocks/stripped_primitive_ancient_log",
+    "south": "technology:blocks/stripped_primitive_ancient_log",
+    "west": "technology:blocks/stripped_primitive_ancient_log",
+    "particle": "technology:blocks/stripped_primitive_ancient_log"
+  }
+}

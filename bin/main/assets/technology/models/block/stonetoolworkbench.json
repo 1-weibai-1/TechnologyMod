@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technology:blocks/planks_oak",
+    "up": "technology:blocks/stone_tool_workbench_top",
+    "north": "technology:blocks/stone_tool_workbench_side",
+    "east": "technology:blocks/stone_tool_workbench_front",
+    "south": "technology:blocks/stone_tool_workbench_side",
+    "west": "technology:blocks/stone_tool_workbench_front",
+    "particle": "technology:blocks/planks_oak"
+  }
+}

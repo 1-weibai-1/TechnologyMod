@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "duo_ye_chest"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "technology:block/knifestone"
+    },
+    "facing=east": {
+      "model": "technology:block/knifestone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "technology:block/knifestone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "technology:block/knifestone",
+      "y": 270
+    }
+  }
+}

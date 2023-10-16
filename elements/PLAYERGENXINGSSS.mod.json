@@ -1,0 +1,7 @@
+{
+  "_fv": 39,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"40\" y=\"40\"><field name=\"trigger\">player_ticks</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerArmor</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerArmortoughness</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerAttackdamage</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerAttackknockback</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerAttackspeed</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerKnockbackresistance</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerMaxhealth</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerMovementspeed</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerLuck</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerREACHDISTANCE</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerSwimspeed</field><next><block type=\"call_procedure\"><field name=\"procedure\">PlayerEntitygravity</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

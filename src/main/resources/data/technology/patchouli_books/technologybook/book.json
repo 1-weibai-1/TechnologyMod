@@ -1,0 +1,18 @@
+{
+    "name": "§6科技树辞典",
+    "landing_text": "$(thing)科技$()，这是仿制人类科技的科技$(p)$(thing)科技$() 是一个一仿制人类科技为主题的科技Mod,主要通过使用各种工具、装置、材料来运用仿制的的人类$(thing)科技$()。",
+    "version": "1",
+    "book_texture": "patchouli:textures/gui/book_gray.png",
+    "subtitle": "§6科技树辞典",
+    "model":"technology:technologybook",
+    "creative_tab": "technologytab",
+    "advancements_tab": "technology",
+    "dont_generate_book": true,
+    "custom_book_item": "technology:technologybook",
+    "use_resource_pack": true,
+    "i18n": true,
+    "macros": {
+        "$(item)": "$(1)",
+        "$(thing)": "$(4)"
+    }
+}

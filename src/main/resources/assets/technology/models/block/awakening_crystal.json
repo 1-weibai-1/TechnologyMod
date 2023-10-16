@@ -1,0 +1,8 @@
+{
+  "parent": "technology:custom/awakening_crystal",
+  "textures": {
+    "all": "technology:blocks/awakening_crystal",
+    "particle": "technology:blocks/awakening_crystal",
+    "0": "technology:blocks/awakening_crystal"
+  }
+}

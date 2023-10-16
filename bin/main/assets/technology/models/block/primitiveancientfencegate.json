@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "particle": "technology:blocks/primitive_ancient_planks",
+    "texture": "technology:blocks/primitive_ancient_planks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "technology:custom/knifestone",
+  "textures": {
+    "all": "technology:blocks/knife_stone",
+    "particle": "technology:blocks/knife_stone",
+    "0": "technology:blocks/knife_stone",
+    "missing": "technology:blocks/knife_stone"
+  }
+}

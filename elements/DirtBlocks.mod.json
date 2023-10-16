@@ -1,0 +1,17 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Primitiveancientgrassblock"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "dirt",
+    "namespace": "minecraft"
+  }
+}

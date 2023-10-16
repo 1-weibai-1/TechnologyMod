@@ -1,0 +1,42 @@
+{
+  "_fv": 39,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow2.png",
+          "use1Xscale": false,
+          "x": 49,
+          "y": 17
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_label_text",
+          "text": {
+            "fixedValue": "Label text"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 42,
+          "y": 30
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

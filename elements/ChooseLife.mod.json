@@ -1,0 +1,154 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 183,
+    "height": 204,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<",
+          "onClick": {
+            "name": "Chooselifejian1"
+          },
+          "width": 30,
+          "height": 20,
+          "x": 130,
+          "y": 26
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty1",
+          "text": ">",
+          "onClick": {
+            "name": "Chooselifejia1"
+          },
+          "width": 30,
+          "height": 20,
+          "x": 267,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_varchoose_life",
+          "text": {
+            "fixedValue": "",
+            "name": "VARChoose_life"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 201,
+          "y": 31
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_que_ding",
+          "text": "确定",
+          "onClick": {
+            "name": "Chooselifetrue"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 195,
+          "y": 197
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty2",
+          "text": "<",
+          "width": 30,
+          "height": 20,
+          "x": 130,
+          "y": 51
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty3",
+          "text": ">",
+          "width": 30,
+          "height": 20,
+          "x": 267,
+          "y": 51
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty4",
+          "text": ">",
+          "width": 30,
+          "height": 20,
+          "x": 267,
+          "y": 78
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty5",
+          "text": "<",
+          "width": 30,
+          "height": 20,
+          "x": 130,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_xiu_fa_dao_lu",
+          "text": {
+            "fixedValue": "修法道路"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 195,
+          "y": 58
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dao_fa_ze",
+          "text": {
+            "fixedValue": "道法则"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 85
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

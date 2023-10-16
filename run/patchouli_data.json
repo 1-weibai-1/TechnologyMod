@@ -1,0 +1,24 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "technology:technologybook": {
+      "viewedEntries": [
+        "technology:stone_age/in_the_world",
+        "technology:stone_age/technologybook",
+        "technology:stone_age/primitiveancientlog",
+        "technology:stone_age/plantfibre",
+        "technology:stone_age/primitiveworks_1"
+      ],
+      "bookmarks": [],
+      "history": [
+        "technology:stone_age/primitiveworks_1",
+        "technology:stone_age/primitiveancientlog",
+        "technology:stone_age/plantfibre",
+        "technology:stone_age/technologybook",
+        "technology:stone_age/in_the_world"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

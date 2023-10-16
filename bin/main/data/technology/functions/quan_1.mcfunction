@@ -1,0 +1,56 @@
+# Enter the function code here
+particle dust 1 0.9 0 0.6 ~-0.4984 ~1 ~0.04 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.49352 ~1 ~0.08 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4854 ~1 ~0.12 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4737 ~1 ~0.16 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4582 ~1 ~0.2 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4386 ~1 ~0.24 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4142 ~1 ~0.28 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.3842 ~1 ~0.32 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.347 ~1 ~0.36 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.3 ~1 ~0.40 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.2375 ~1 ~0.44 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.14 ~1 ~0.48 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~ ~1 ~0.50 0 0 0 0 1 force
+
+particle dust 1 0.9 0 0.6 ~0.4984 ~1 ~0.04 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.49352 ~1 ~0.08 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4854 ~1 ~0.12 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4737 ~1 ~0.16 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4582 ~1 ~0.2 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4386 ~1 ~0.24 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4142 ~1 ~0.28 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.3842 ~1 ~0.32 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.347 ~1 ~0.36 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.3 ~1 ~0.40 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.2375 ~1 ~0.44 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.14 ~1 ~0.48 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~ ~1 ~0.50 0 0 0 0 1 force
+
+particle dust 1 0.9 0 0.6 ~0.4984 ~1 ~-0.04 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.49352 ~1 ~-0.08 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4854 ~1 ~-0.12 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4737 ~1 ~-0.16 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4582 ~1 ~-0.2 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4386 ~1 ~-0.24 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.4142 ~1 ~-0.28 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.3842 ~1 ~-0.32 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.347 ~1 ~-0.36 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.3 ~1 ~-0.40 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.2375 ~1 ~-0.44 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~0.14 ~1 ~-0.48 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~ ~1 ~-0.50 0 0 0 0 1 force
+
+particle dust 1 0.9 0 0.6 ~-0.4984 ~1 ~-0.04 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.49352 ~1 ~-0.08 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4854 ~1 ~-0.12 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4737 ~1 ~-0.16 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4582 ~1 ~-0.2 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4386 ~1 ~-0.24 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.4142 ~1 ~-0.28 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.3842 ~1 ~-0.32 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.347 ~1 ~-0.36 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.3 ~1 ~-0.40 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.2375 ~1 ~-0.44 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~-0.14 ~1 ~-0.48 0 0 0 0 1 force
+particle dust 1 0.9 0 0.6 ~ ~1 ~-0.50 0 0 0 0 1 force

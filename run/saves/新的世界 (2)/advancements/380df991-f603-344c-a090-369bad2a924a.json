@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-09-03 20:10:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-09-03 20:09:54 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "technology:blocks/daoliang_grass_top",
+    "particle": "technology:blocks/daoliang_grass_top"
+  }
+}

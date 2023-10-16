@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "primitive_works",
+        "1_0": "knife_stone",
+        "2": "stone_knife_parts",
+        "3": "rough_longbow",
+        "4": "gravel_pick_head",
+        "missing": "stripped_primitive_ancient_log_top"
+      },
+      "name": "default"
+    }
+  }
+}

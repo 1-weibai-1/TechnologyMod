@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="technology"
+version="1.0.1"
+displayName="Technology"
+credits="wei_bai,baubles,mcr."
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="wei_bai"
+description='''
+Welcome to Technology Mod, which is a module that combines technology and cultivation. If you carefully taste it, you will have a different experience.
+'''
+
+[[dependencies.technology]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.technology]]
+    modId="patchouli"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

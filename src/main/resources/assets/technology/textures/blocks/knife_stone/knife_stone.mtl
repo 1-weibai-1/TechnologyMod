@@ -1,0 +1,10 @@
+# Made in Blockbench 4.5.0
+newmtl m_a80f72e8-1340-7476-a22d-a8aa93695d62
+map_Kd knife_stone_side2.png 
+newmtl m_0e922420-e114-1ab2-61cd-c6c760c291a7
+map_Kd knife_stone_side1.png 
+newmtl m_ac09ef19-cc7e-74df-4de2-331251cab642
+map_Kd knife_stone_top.png 
+newmtl m_d5749ee6-291c-029b-4994-8e0de95df595
+map_Kd knife_stone_bottom.png 
+newmtl none

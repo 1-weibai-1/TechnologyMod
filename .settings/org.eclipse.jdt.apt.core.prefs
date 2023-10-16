@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.apt.aptEnabled=false
+org.eclipse.jdt.apt.genSrcDir=A\:\\Minecraft_MOD\\1\\technology\\build\\.apt_generated
+org.eclipse.jdt.apt.genSrcTestDir=A\:\\Minecraft_MOD\\1\\technology\\build\\.apt_generated_test
+org.eclipse.jdt.apt.processorOptions/defaultObfuscationEnv=searge
+org.eclipse.jdt.apt.processorOptions/mappingTypes=tsrg
+org.eclipse.jdt.apt.processorOptions/outRefMapFile=A\:\\Minecraft_MOD\\1\\technology\\build\\mixinEclipseJdtApt\\mixins.refmap.json
+org.eclipse.jdt.apt.processorOptions/outTsrgFile=A\:\\Minecraft_MOD\\1\\technology\\build\\mixinEclipseJdtApt\\mixins.mappings.tsrg
+org.eclipse.jdt.apt.processorOptions/pluginVersion=0.7
+org.eclipse.jdt.apt.processorOptions/reobfTsrgFile=A\:\\Minecraft_MOD\\1\\technology\\build\\createMcpToSrg\\output.tsrg
+org.eclipse.jdt.apt.reconcileEnabled=true

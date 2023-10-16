@@ -1,0 +1,29 @@
+{
+    "name": "原始之木",
+    "icon": "technology:primitiveancientlog",
+    "category": "technology:stone_age",
+    "pages":[
+        {
+            "type": "spotlight",
+            "item": "technology:primitiveancientsapling",
+            "text": "$(item)原始古木树苗$()可以用于种植原始古木,$(item)原始古木树苗$()是破坏$(item)原始古木树叶$()获得。",
+            "title": "§6原始古木树苗"
+        },
+        {
+            "type": "spotlight",
+            "item": "technology:primitiveancientlog",
+            "text": "$(item)原始古木原木$()是通过挖掘原始古木获得的。$(thing)原始古木$()是远古时期才存在的古木。",
+            "title": "§6原始古木原木",
+            "link_recipe": true
+        },
+        {
+            "type": "crafting",
+            "recipe": "technology:technology_planks_1",
+            "text": "是由$(item)原始古木原木$()加工而成。",
+            "link_recipe": true
+        }
+    ],
+    "extra_recipe_mappings": {
+        "minecraft:log": 1
+    }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "stone_age",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Primitiveancientslab"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientslab"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientslab"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientplanks"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientplanks"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientplanks"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientplanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Primitiveancientplanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Primitiveworks"
+    },
+    "name": "technologyprimitiveworks",
+    "namespace": "mod"
+  }
+}

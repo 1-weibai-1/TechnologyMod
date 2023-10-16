@@ -1,0 +1,14 @@
+{
+	"components": [
+		{
+			"type": "technology:image",
+			"images": "technology:textures/gui/ac.png",
+			"height": 0,
+			"width": 0,
+			"scale": 0.5,
+			"texture_width": 1050,
+			"texture_height": 1496,
+			"border": true
+		}
+	]
+}

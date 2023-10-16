@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "technology:blocks/spiritual_barrier",
+    "particle": "technology:blocks/spiritual_barrier"
+  }
+}

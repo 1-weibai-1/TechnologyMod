@@ -1,0 +1,10 @@
+1效率=6.25硬度
+primitive_ancient_log：
+硬度：5  效率：0.64
+抗性：600 等级：10
+燃烧：15
+
+primitive_ancient_planks：
+硬度：3  效率：0.64
+抗性：360 等级：10
+燃烧：60

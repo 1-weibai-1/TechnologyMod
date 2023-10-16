@@ -1,0 +1,9 @@
+{
+  "parent": "technology:custom/primitive_works",
+  "textures": {
+    "all": "technology:blocks/primitive_works",
+    "particle": "technology:blocks/primitive_works",
+    "0": "technology:blocks/primitive_works",
+    "missing": "technology:blocks/primitive_works"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "group": "stone_age",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "technology:primitiveancientplanks"
+    }
+  },
+  "result": {
+    "item": "technology:woodstick",
+    "count": 4
+  }
+}

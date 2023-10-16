@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "technology:granitecrushedstone"
+    }
+  },
+  "result": {
+    "item": "technology:granitecrushedstone_kuijia_armor_armor_helmet",
+    "count": 1
+  }
+}

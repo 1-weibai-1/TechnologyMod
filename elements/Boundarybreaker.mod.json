@@ -1,0 +1,30 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "boundary_breakers",
+    "customModelName": "Normal",
+    "name": "Boundarybreaker",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Technologytab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 10,
+    "efficiency": 10.0,
+    "attackSpeed": 0.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntitySwing": {
+      "name": "BoundarybreakerDangShiTiHuiDongWuPinShi"
+    }
+  }
+}

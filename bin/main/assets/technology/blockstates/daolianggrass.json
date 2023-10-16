@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "technology:block/daolianggrass"
+    },
+    "half=lower": {
+      "model": "technology:block/daolianggrass_bottom"
+    }
+  }
+}

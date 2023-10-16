@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RB"
+  ],
+  "key": {
+    "R": {
+      "item": "technology:crushedstone"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "patchouli:guide_book",
+    "count": 1,
+    "nbt":{"patchouli:book":"technology:technologybook"}
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Roughlongbow"
+      },
+      {
+        "value": "CUSTOM:Roughlongbowhandle"
+      },
+      {
+        "value": "CUSTOM:Plantfibre"
+      },
+      {
+        "value": "CUSTOM:Fibrethread"
+      },
+      {
+        "value": "CUSTOM:Crushedstone"
+      },
+      {
+        "value": "CUSTOM:Granitecrushedstone"
+      },
+      {
+        "value": "CUSTOM:Fiberrag"
+      },
+      {
+        "value": "CUSTOM:Fiberdirtycloth"
+      },
+      {
+        "value": "CUSTOM:Fiberblockcloth"
+      },
+      {
+        "value": "CUSTOM:Fibercloth"
+      },
+      {
+        "value": "CUSTOM:Simpleweavingmachine"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientlog"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientplanks"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientleaves"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientsapling"
+      },
+      {
+        "value": "CUSTOM:Hanger"
+      },
+      {
+        "value": "CUSTOM:Stonetoolworkbench"
+      },
+      {
+        "value": "CUSTOM:Woodstick"
+      },
+      {
+        "value": "CUSTOM:Gravelaxe"
+      },
+      {
+        "value": "CUSTOM:Strippedprimitiveancientlog"
+      },
+      {
+        "value": "CUSTOM:Stonepowder"
+      },
+      {
+        "value": "CUSTOM:Stoneslag"
+      },
+      {
+        "value": "CUSTOM:Apinchofslag"
+      },
+      {
+        "value": "CUSTOM:Amositefragments"
+      },
+      {
+        "value": "CUSTOM:Coalminefragments"
+      },
+      {
+        "value": "CUSTOM:Gravelpickhead"
+      },
+      {
+        "value": "CUSTOM:Rockfragments"
+      },
+      {
+        "value": "CUSTOM:Sharprockfragments"
+      },
+      {
+        "value": "CUSTOM:Simplelighter"
+      },
+      {
+        "value": "CUSTOM:Stoneknifeparts"
+      },
+      {
+        "value": "CUSTOM:Stoneknife"
+      },
+      {
+        "value": "CUSTOM:Toughstoneline"
+      },
+      {
+        "value": "CUSTOM:Crushedstoneknife"
+      },
+      {
+        "value": "CUSTOM:Gravelpick"
+      },
+      {
+        "value": "CUSTOM:Stonetoolsyntheticcloth"
+      },
+      {
+        "value": "CUSTOM:Knifestone"
+      },
+      {
+        "value": "CUSTOM:Primitiveancienttrapdoor"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientdoor"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientslab"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientstairs"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientfence"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientfencegate"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientwall"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientpressureplate"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientbutton"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientgrassblock"
+      },
+      {
+        "value": "CUSTOM:Primitiveancientair"
+      },
+      {
+        "value": "CUSTOM:Spiritualbarrier"
+      },
+      {
+        "value": "CUSTOM:Enclosureblock"
+      },
+      {
+        "value": "CUSTOM:Boundarybreaker"
+      },
+      {
+        "value": "CUSTOM:Primitiveworks"
+      },
+      {
+        "value": "CUSTOM:Primitiveworks1"
+      },
+      {
+        "value": "CUSTOM:AwakeningCrystal"
+      },
+      {
+        "value": "CUSTOM:Daolianggrass"
+      },
+      {
+        "value": "CUSTOM:DaolianggrassItems"
+      },
+      {
+        "value": "CUSTOM:Daoliangrice"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "technology_stone_age",
+    "namespace": "forge"
+  }
+}

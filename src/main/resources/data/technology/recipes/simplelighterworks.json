@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " O",
+    "M "
+  ],
+  "key": {
+    "O": {
+      "item": "technology:coalminefragments"
+    },
+    "M": {
+      "item": "technology:amositefragments"
+    }
+  },
+  "result": {
+    "item": "technology:simplelighter",
+    "count": 1
+  }
+}

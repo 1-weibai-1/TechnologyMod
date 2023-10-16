@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "N"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "N": {
+      "item": "technology:knifestone"
+    }
+  },
+  "result": {
+    "item": "technology:handheldgrindingstone",
+    "count": 1
+  }
+}

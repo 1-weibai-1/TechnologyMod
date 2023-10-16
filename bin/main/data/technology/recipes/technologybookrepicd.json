@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RB"
+  ],
+  "key": {
+    "R": {
+      "item": "technology:crushedstone"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "technology:technologybook",
+    "count": 1
+  }
+}

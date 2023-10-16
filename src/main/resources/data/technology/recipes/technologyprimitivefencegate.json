@@ -1,0 +1,20 @@
+{
+  "group": "stone_age",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ORO",
+    "ORO"
+  ],
+  "key": {
+    "O": {
+      "item": "technology:woodstick"
+    },
+    "R": {
+      "item": "technology:primitiveancientplanks"
+    }
+  },
+  "result": {
+    "item": "technology:primitiveancientfencegate",
+    "count": 1
+  }
+}

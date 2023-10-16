@@ -1,0 +1,23 @@
+{
+  "type": "technology:st_workbench_recipe",
+  "ingredients": [
+    "T",
+    "S",
+    "I"
+  ],
+  "key": {
+    "T": {
+      "item": "technology:crushedstone"
+    },
+    "I": {
+      "item": "technology:woodstick"
+    },
+    "S": {
+      "item": "technology:fibrethread"
+    }
+  },
+  "output": {
+    "item": "technology:gravelaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "technology:blocks/enclosure_block",
+    "particle": "technology:blocks/enclosure_block"
+  }
+}

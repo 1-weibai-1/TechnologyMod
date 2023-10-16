@@ -1,0 +1,21 @@
+{
+  "group": "stone_age",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "III",
+    "I I"
+  ],
+  "key": {
+    "R": {
+      "item": "technology:primitiveancientslab"
+    },
+    "I": {
+      "item": "technology:primitiveancientplanks"
+    }
+  },
+  "result": {
+    "item": "technology:primitiveworks",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "group": "stone_age",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "technology:primitiveancientplanks"
+    }
+  },
+  "result": {
+    "item": "technology:primitiveancientstairs",
+    "count": 4
+  }
+}

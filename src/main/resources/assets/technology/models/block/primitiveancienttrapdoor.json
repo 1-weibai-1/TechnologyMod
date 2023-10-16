@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "technology:blocks/primitive_ancient_trapdoor",
+    "particle": "technology:blocks/primitive_ancient_trapdoor"
+  }
+}

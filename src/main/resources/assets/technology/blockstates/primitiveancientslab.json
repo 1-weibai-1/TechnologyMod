@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "technology:block/primitiveancientslab"
+    },
+    "type=top": {
+      "model": "technology:block/primitiveancientslab_top"
+    },
+    "type=double": {
+      "model": "technology:block/primitiveancientslab_full"
+    }
+  }
+}

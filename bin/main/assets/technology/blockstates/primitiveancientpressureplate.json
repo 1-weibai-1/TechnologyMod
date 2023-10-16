@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "technology:block/primitiveancientpressureplate"
+    },
+    "powered=true": {
+      "model": "technology:block/primitiveancientpressureplate_down"
+    }
+  }
+}

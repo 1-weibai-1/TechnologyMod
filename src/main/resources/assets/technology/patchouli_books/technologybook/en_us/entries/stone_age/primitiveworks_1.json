@@ -1,0 +1,40 @@
+{
+    "name": "植物纤维",
+    "icon": "technology:primitiveworks_1",
+    "category": "technology:stone_age",
+    "pages":[
+        {
+            "type": "spotlight",
+            "item": "technology:primitiveworks_1",
+            "text": "$(item)植物纤维$()是如何获取的呢？$(p)是玩家右键$(item)草$()、$(item)蕨$()、$(item)蒲公英$()、$(item)虞美人$()、$(item)绒绣葱$()、$(item)蓝花美耳草$()、$(item)红色郁金香$()、$(item)橙色郁金香$()、$(item)白色郁金香$()、$(item)粉红色郁金香$()、$(item)滨菊$()、$(item)矢车菊$()、$(item)铃兰$()、$(item)藤蔓$()、$(item)丁香$()、$(item)高草丛$()、$(item)大型蕨$()",
+            "title": "§6植物纤维",
+            "link_recipe": true
+        },
+        {
+            "type": "multiblock",
+            "name": "原始工作站",
+            "multiblock": {
+                "pattern": [
+                    [" "," G "," "],
+                    [" "," W ","0"]
+                ],
+                "mapping": {
+                    "G": "technology:knifestone",
+                    "W": "technology:primitiveworks"
+                },
+                "symmetrical": true
+            },
+            "enable_visualize ":"true",
+            "text":"nb"
+        },
+        {
+            "type": "template",
+            "template": "technology:one"
+        }
+    ],
+    "extra_recipe_mappings": {
+        "technology:primitiveworks_1": 1,
+        "technology:primitiveworks": 1,
+        "technology:knifestone": 1
+    }
+}

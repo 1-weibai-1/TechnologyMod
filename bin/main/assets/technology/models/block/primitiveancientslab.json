@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "technology:blocks/primitive_ancient_planks",
+    "bottom": "technology:blocks/primitive_ancient_planks",
+    "top": "technology:blocks/primitive_ancient_planks",
+    "side": "technology:blocks/primitive_ancient_planks"
+  }
+}
