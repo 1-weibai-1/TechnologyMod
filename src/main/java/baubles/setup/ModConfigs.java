@@ -8,9 +8,9 @@ import net.minecraftforge.common.ForgeConfigSpec;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.loading.FMLPaths;
-import net.wei_bai.TecUtil.mixin.AttributeRegistryHelper;
-import net.wei_bai.TecUtil.mixin.config.AttributeConfig;
-import net.wei_bai.TecUtil.mixin.temp.RegistryHelper;
+import net.wei_bai.tecutil.mixin.AttributeRegistryHelper;
+import net.wei_bai.tecutil.mixin.config.AttributeConfig;
+import net.wei_bai.tecutil.mixin.temp.RegistryHelper;
 
 public class ModConfigs {
 

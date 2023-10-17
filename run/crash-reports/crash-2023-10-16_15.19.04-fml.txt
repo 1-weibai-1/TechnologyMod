@@ -60,7 +60,7 @@ Details:
 		java.lang.reflect.InvocationTargetException: null
 	Mod Version: 1.0.1
 	Mod Issue URL: NOT PROVIDED
-	Exception message: org.spongepowered.asm.mixin.transformer.throwables.IllegalClassLoadError: net.wei_bai.TecUtil.mixin.mixin.SetArmorItem is in a defined mixin package net.wei_bai.TecUtil.mixin.mixin.* owned by technolog.mixins.json and cannot be referenced directly
+	Exception message: org.spongepowered.asm.mixin.transformer.throwables.IllegalClassLoadError: net.wei_bai.tecutil.mixin.mixin.SetArmorItem is in a defined mixin package net.wei_bai.tecutil.mixin.mixin.* owned by technolog.mixins.json and cannot be referenced directly
 Stacktrace:
 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:334) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}

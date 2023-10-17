@@ -42,8 +42,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.world.level.block.Block;
 
 public class TechnologyModBlocks {
-	public static final DeferredRegister<Block> REGISTRY =
-			DeferredRegister.create(ForgeRegistries.BLOCKS, TechnologyMod.MODID);
+	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, TechnologyMod.MODID);
 	public static final RegistryObject<Block> PRIMITIVEANCIENTAIR = REGISTRY.register("primitiveancientair", () -> new PrimitiveancientairBlock());
 	public static final RegistryObject<Block> STONETOOLWORKBENCH = REGISTRY.register("stonetoolworkbench", () -> new StonetoolworkbenchBlock());
 	public static final RegistryObject<Block> PRIMITIVEANCIENTGRASSBLOCK = REGISTRY.register("primitiveancientgrassblock", () -> new PrimitiveancientgrassblockBlock());

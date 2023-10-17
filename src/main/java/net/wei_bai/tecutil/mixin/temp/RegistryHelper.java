@@ -1,4 +1,4 @@
-package net.wei_bai.TecUtil.mixin.temp;
+package net.wei_bai.tecutil.mixin.temp;
 
 import net.minecraft.resources.ResourceLocation;
 

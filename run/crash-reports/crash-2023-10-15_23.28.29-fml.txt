@@ -36,7 +36,7 @@ A detailed walkthrough of the error, its code path and all known details is as f
 -- Head --
 Thread: Render thread
 Stacktrace:
-	at net.wei_bai.TecUtil.mixin.config.AttributeConfig$Entry.<init>(AttributeConfig.java:158) ~[%2386!/:?] {re:classloading}
+	at net.wei_bai.tecutil.mixin.config.AttributeConfig$Entry.<init>(AttributeConfig.java:158) ~[%2386!/:?] {re:classloading}
 -- MOD technology --
 Details:
 	Caused by 0: java.lang.reflect.InvocationTargetException
@@ -62,8 +62,8 @@ Details:
 	Mod Issue URL: NOT PROVIDED
 	Exception message: java.lang.NullPointerException: Cannot read field "value" because "this.max" is null
 Stacktrace:
-	at net.wei_bai.TecUtil.mixin.config.AttributeConfig$Entry.<init>(AttributeConfig.java:158) ~[%2386!/:?] {re:classloading}
-	at net.wei_bai.TecUtil.mixin.config.AttributeConfig.load(AttributeConfig.java:75) ~[%2386!/:?] {re:classloading}
+	at net.wei_bai.tecutil.mixin.config.AttributeConfig$Entry.<init>(AttributeConfig.java:158) ~[%2386!/:?] {re:classloading}
+	at net.wei_bai.tecutil.mixin.config.AttributeConfig.load(AttributeConfig.java:75) ~[%2386!/:?] {re:classloading}
 	at baubles.setup.ModConfigs.registerAndLoadConfig(ModConfigs.java:41) ~[%2386!/:?] {re:classloading}
 	at net.wei_bai.technology.TechnologyMod.<init>(TechnologyMod.java:77) ~[%2386!/:?] {re:classloading}
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?] {}

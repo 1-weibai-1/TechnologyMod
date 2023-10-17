@@ -131,7 +131,7 @@ jar {
                 'Implementation-Version': project.jar.archiveVersion,
                 'Implementation-Vendor': 'wei_bai',
                 'Implementation-Timestamp': new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
-                'MixinConfigs': 'doglib.mixins.json'
+                'MixinConfigs': 'technolog.mixins.json'
         ])
     }
 }

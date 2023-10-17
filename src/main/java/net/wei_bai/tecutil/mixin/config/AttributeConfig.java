@@ -1,12 +1,12 @@
-package net.wei_bai.TecUtil.mixin.config;
+package net.wei_bai.tecutil.mixin.config;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.ai.attributes.Attribute;
 import net.minecraft.world.entity.ai.attributes.RangedAttribute;
-import net.wei_bai.TecUtil.mixin.mixin.SetRangedAttribute;
-import net.wei_bai.TecUtil.mixin.temp.RegistryHelper;
+import net.wei_bai.tecutil.mixin.mixin.SetRangedAttribute;
+import net.wei_bai.tecutil.mixin.temp.RegistryHelper;
 import net.wei_bai.technology.TechnologyMod;
 
 import java.io.File;

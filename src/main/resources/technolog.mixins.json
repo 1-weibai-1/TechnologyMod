@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.wei_bai.TecUtil.mixin.mixin",
+  "package": "net.wei_bai.tecutil.mixin.mixin",
   "compatibilityLevel": "JAVA_17",
   "refmap": "technology.refmap.json",
   "mixins": [

@@ -1,4 +1,4 @@
-package net.wei_bai.TecUtil.mixin.mixin;
+package net.wei_bai.tecutil.mixin.mixin;
 
 import net.minecraft.world.entity.ai.attributes.RangedAttribute;
 import org.spongepowered.asm.mixin.Mixin;

@@ -1,4 +1,4 @@
-package net.wei_bai.TecUtil.util;
+package net.wei_bai.tecutil.util;
 
 import mezz.jei.api.IModPlugin;
 import mezz.jei.api.JeiPlugin;

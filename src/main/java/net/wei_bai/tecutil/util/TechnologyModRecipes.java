@@ -1,4 +1,4 @@
-package net.wei_bai.TecUtil.util;
+package net.wei_bai.tecutil.util;
 
 import net.minecraft.world.item.crafting.RecipeSerializer;
 import net.minecraftforge.eventbus.api.IEventBus;

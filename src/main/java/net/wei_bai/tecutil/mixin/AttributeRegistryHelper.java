@@ -1,9 +1,9 @@
-package net.wei_bai.TecUtil.mixin;
+package net.wei_bai.tecutil.mixin;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.ai.attributes.Attribute;
 import net.minecraftforge.registries.ForgeRegistries;
-import net.wei_bai.TecUtil.mixin.temp.RegistryHelper;
+import net.wei_bai.tecutil.mixin.temp.RegistryHelper;
 
 import java.util.Collection;
 

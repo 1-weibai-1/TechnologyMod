@@ -36,7 +36,7 @@ A detailed walkthrough of the error, its code path and all known details is as f
 -- Head --
 Thread: Render thread
 Stacktrace:
-	at net.wei_bai.TecUtil.mixin.config.AttributeConfig.applyChanges(AttributeConfig.java:46) ~[%2386!/:?] {re:classloading}
+	at net.wei_bai.tecutil.mixin.config.AttributeConfig.applyChanges(AttributeConfig.java:46) ~[%2386!/:?] {re:classloading}
 -- MOD technology --
 Details:
 	Caused by 0: java.lang.reflect.InvocationTargetException
@@ -60,9 +60,9 @@ Details:
 		java.lang.reflect.InvocationTargetException: null
 	Mod Version: 1.0.1
 	Mod Issue URL: NOT PROVIDED
-	Exception message: java.lang.ClassCastException: class net.minecraft.world.entity.ai.attributes.RangedAttribute cannot be cast to class net.wei_bai.TecUtil.mixin.mixin.SetRangedAttribute (net.minecraft.world.entity.ai.attributes.RangedAttribute is in module minecraft@1.18.2 of loader 'TRANSFORMER' @291373d3; net.wei_bai.TecUtil.mixin.mixin.SetRangedAttribute is in module technology@1.0.1 of loader 'TRANSFORMER' @291373d3)
+	Exception message: java.lang.ClassCastException: class net.minecraft.world.entity.ai.attributes.RangedAttribute cannot be cast to class net.wei_bai.tecutil.mixin.mixin.SetRangedAttribute (net.minecraft.world.entity.ai.attributes.RangedAttribute is in module minecraft@1.18.2 of loader 'TRANSFORMER' @291373d3; net.wei_bai.tecutil.mixin.mixin.SetRangedAttribute is in module technology@1.0.1 of loader 'TRANSFORMER' @291373d3)
 Stacktrace:
-	at net.wei_bai.TecUtil.mixin.config.AttributeConfig.applyChanges(AttributeConfig.java:46) ~[%2386!/:?] {re:classloading}
+	at net.wei_bai.tecutil.mixin.config.AttributeConfig.applyChanges(AttributeConfig.java:46) ~[%2386!/:?] {re:classloading}
 	at baubles.setup.ModConfigs.registerAndLoadConfig(ModConfigs.java:40) ~[%2386!/:?] {re:classloading}
 	at net.wei_bai.technology.TechnologyMod.<init>(TechnologyMod.java:77) ~[%2386!/:?] {re:classloading}
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?] {}

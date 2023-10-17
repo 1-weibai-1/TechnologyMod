@@ -1,4 +1,4 @@
-package net.wei_bai.TecUtil.util;
+package net.wei_bai.tecutil.util;
 
 import mezz.jei.api.constants.VanillaTypes;
 import mezz.jei.api.gui.builder.IRecipeLayoutBuilder;

@@ -1,4 +1,4 @@
-package net.wei_bai.TecUtil.util;
+package net.wei_bai.tecutil.util;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;

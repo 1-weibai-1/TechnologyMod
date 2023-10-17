@@ -11431,75 +11431,75 @@
       "path": "~/Stone Age/Block/primitiveworks_1/GUI/text"
     },
     {
-      "name": "Granitecrushedstone_kuijiaArmor",
+      "name": "Granitecrushedstone_kuijia_armorArmor",
       "type": "armor",
       "sortid": 455,
       "compiles": true,
-      "locked_code": false,
-      "registry_name": "granitecrushedstone_kuijia_armor",
+      "locked_code": true,
+      "registry_name": "granitecrushedstone_kuijia_armor_armor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/technology/models/item/granitecrushedstone_kuijia_armor_helmet.json",
-          "src/main/java/net/wei_bai/technology/item/Granitecrushedstone_kuijiaArmorItem.java",
-          "src/main/resources/assets/technology/models/item/granitecrushedstone_kuijia_armor_leggings.json",
-          "src/main/resources/assets/technology/models/item/granitecrushedstone_kuijia_armor_chestplate.json",
-          "src/main/resources/assets/technology/models/item/granitecrushedstone_kuijia_armor_boots.json"
+          "src/main/resources/assets/technology/models/item/granitecrushedstone_kuijia_armor_armor_leggings.json",
+          "src/main/resources/assets/technology/models/item/granitecrushedstone_kuijia_armor_armor_helmet.json",
+          "src/main/resources/assets/technology/models/item/granitecrushedstone_kuijia_armor_armor_boots.json",
+          "src/main/java/net/wei_bai/technology/item/Granitecrushedstone_kuijia_armorArmorItem.java",
+          "src/main/resources/assets/technology/models/item/granitecrushedstone_kuijia_armor_armor_chestplate.json"
         ]
       },
       "path": "~/Stone Age/Item"
     },
     {
-      "name": "Granitecrushedstone_kuijiaArmorHelmetRecipe",
+      "name": "Granitecrushedstone_kuijia_armorArmorHelmetRecipe",
       "type": "recipe",
       "sortid": 451,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "granitecrushedstone_kuijia_armor_helmet_recipe",
+      "registry_name": "granitecrushedstone_kuijia_armor_armor_helmet_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/technology/recipes/granitecrushedstone_kuijia_armor_helmet_recipe.json"
+          "src/main/resources/data/technology/recipes/granitecrushedstone_kuijia_armor_armor_helmet_recipe.json"
         ]
       },
       "path": "~/Stone Age/Item"
     },
     {
-      "name": "Granitecrushedstone_kuijiaArmorBodyRecipe",
+      "name": "Granitecrushedstone_kuijia_armorArmorBodyRecipe",
       "type": "recipe",
       "sortid": 452,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "granitecrushedstone_kuijia_armor_body_recipe",
+      "registry_name": "granitecrushedstone_kuijia_armor_armor_body_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/technology/recipes/granitecrushedstone_kuijia_armor_body_recipe.json"
+          "src/main/resources/data/technology/recipes/granitecrushedstone_kuijia_armor_armor_body_recipe.json"
         ]
       },
       "path": "~/Stone Age/Item"
     },
     {
-      "name": "Granitecrushedstone_kuijiaArmorLeggingsRecipe",
+      "name": "Granitecrushedstone_kuijia_armorArmorLeggingsRecipe",
       "type": "recipe",
       "sortid": 453,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "granitecrushedstone_kuijia_armor_leggings_recipe",
+      "registry_name": "granitecrushedstone_kuijia_armor_armor_leggings_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/technology/recipes/granitecrushedstone_kuijia_armor_leggings_recipe.json"
+          "src/main/resources/data/technology/recipes/granitecrushedstone_kuijia_armor_armor_leggings_recipe.json"
         ]
       },
       "path": "~/Stone Age/Item"
     },
     {
-      "name": "Granitecrushedstone_kuijiaArmorBootsRecipe",
+      "name": "Granitecrushedstone_kuijia_armorArmorBootsRecipe",
       "type": "recipe",
       "sortid": 454,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "granitecrushedstone_kuijia_armor_boots_recipe",
+      "registry_name": "granitecrushedstone_kuijia_armor_armor_boots_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/technology/recipes/granitecrushedstone_kuijia_armor_boots_recipe.json"
+          "src/main/resources/data/technology/recipes/granitecrushedstone_kuijia_armor_armor_boots_recipe.json"
         ]
       },
       "path": "~/Stone Age/Item"
@@ -11669,14 +11669,15 @@
       "gui.technology.stone_tool_workbench_gui.label_bnbtnumberslot_2_id": "\u003cBNBT:number:slot_2_id\u003e",
       "item.technology.roughlongbowhandle": "Roughlongbowhandle",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_2_level": "\u003cBNBT:number:slot_2_level\u003e",
+      "item.technology.granitecrushedstone_kuijia_armor_armor_leggings": "Granitecrushedstone_kuijia_armor Leggings",
       "block.technology.primitiveancientslab": "Primitiveancientslab",
       "block.technology.primitiveancienttrapdoor": "Primitiveancienttrapdoor",
       "biome.technology.primitive_forest": "Primitive Forest",
       "block.technology.stonetoolworkbench": "Stonetoolworkbench",
       "block.technology.primitiveancientstairs": "Primitiveancientstairs",
       "name.CHARM": "Charm",
-      "gui.technology.stone_tool_workbench_gui.label_bnbtnumbertick": "\u003cBNBT:number:tick\u003e",
       "gui.technology.choose_life.button_empty2": "\u003c",
+      "gui.technology.stone_tool_workbench_gui.label_bnbtnumbertick": "\u003cBNBT:number:tick\u003e",
       "gui.technology.choose_life.button_empty1": "\u003e",
       "gui.technology.choose_life.button_empty4": "\u003e",
       "block.technology.primitiveancientbutton": "Primitiveancientbutton",
@@ -11688,6 +11689,7 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_5_level": "\u003cBNBT:number:slot_5_level\u003e",
       "block.technology.strippedprimitiveancientlog": "Primitiveancientlog",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_6_id": "\u003cBNBT:number:slot_6_id\u003e",
+      "item.technology.granitecrushedstone_kuijia_armor_armor_chestplate": "Granitecrushedstone_kuijia_armor Chestplate",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_3_id": "\u003cBNBT:number:slot_3_id\u003e",
       "item.technology.sharprockfragments": "Sharprockfragments",
       "block.technology.primitiveancientfence": "Primitiveancientfence",
@@ -11708,7 +11710,6 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_5_id": "\u003cBNBT:number:slot_5_id\u003e",
       "block.technology.primitiveancientlog": "Primitiveancientlog",
       "tooltip.technology.tooltip_1": "§7Stone Age",
-      "item.technology.granitecrushedstone_kuijia_armor_leggings": "Granitecrushedstone_kuijia Leggings",
       "item.technology.fibercloth": "Fibercloth",
       "gui.technology.choose_life.button_empty": "\u003c",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberwater_progress_bar": "\u003cBNBT:number:Water_progress_bar\u003e",
@@ -11735,8 +11736,8 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_7_level": "\u003cBNBT:number:slot_7_level\u003e",
       "item.technology.woodstick": "Woodstick",
       "name.RING": "Ring",
+      "item.technology.granitecrushedstone_kuijia_armor_armor_helmet": "Granitecrushedstone_kuijia_armor Helmet",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_9_level": "\u003cBNBT:number:slot_9_level\u003e",
-      "item.technology.granitecrushedstone_kuijia_armor_chestplate": "Granitecrushedstone_kuijia Chestplate",
       "block.technology.primitiveancientdoor": "Primitiveancientdoor",
       "gui.technology.choose_life.button_que_ding": "确定",
       "block.technology.primitiveworks": "Primitiveworks",
@@ -11744,7 +11745,6 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberitem_true": "\u003cBNBT:number:item_true\u003e",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_7_id": "\u003cBNBT:number:slot_7_id\u003e",
       "name.TRINKET": "Trinket",
-      "item.technology.granitecrushedstone_kuijia_armor_helmet": "Granitecrushedstone_kuijia Helmet",
       "item.technology.amositefragments": "Amositefragments",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_6_level": "\u003cBNBT:number:slot_6_level\u003e",
       "block.technology.spiritualbarrier": "Spiritualbarrier",
@@ -11780,6 +11780,7 @@
       "gui.technology.stone_tool_workbench_gui.label_bnbtnumberslot_0_id": "\u003cBNBT:number:slot_0_id\u003e",
       "block.technology.primitiveancientgrassblock": "Primitiveancientgrassblock",
       "item.technology.tiger_spawn_egg": "Tiger Spawn Egg",
+      "item.technology.granitecrushedstone_kuijia_armor_armor_boots": "Granitecrushedstone_kuijia_armor Boots",
       "item.technology.stoneknifeparts": "Stoneknifeparts",
       "biome.technology.primitiveplain": "Primitiveplain",
       "item.technology.gravelaxe": "Gravelaxe",
@@ -11795,21 +11796,21 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_4_id": "\u003cBNBT:number:slot_4_id\u003e",
       "item.technology.fibrethread": "Fibrethread",
       "gui.technology.stone_tool_workbench_gui.label_bnbtnumberslot_2_level": "\u003cBNBT:number:slot_2_level\u003e",
-      "item.technology.granitecrushedstone_kuijia_armor_boots": "Granitecrushedstone_kuijia Boots",
       "gui.technology.stone_tool_workbench_gui.button_zhi_zuo": "制作"
     },
     "zh_cn": {
       "gui.technology.stone_tool_workbench_gui.label_bnbtnumberslot_2_id": "\u003cBNBT:number:slot_2_id\u003e",
       "item.technology.roughlongbowhandle": "粗糙的长弓把手",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_2_level": "\u003cBNBT:number:slot_2_level\u003e",
+      "item.technology.granitecrushedstone_kuijia_armor_armor_leggings": "Granitecrushedstone_kuijia_armor Leggings",
       "block.technology.primitiveancientslab": "原始古木台阶",
       "block.technology.primitiveancienttrapdoor": "原始古木活板门",
       "biome.technology.primitive_forest": "原始森林",
       "block.technology.stonetoolworkbench": "石器工作台",
       "name.CHARM": "勋章",
       "block.technology.primitiveancientstairs": "原始古木楼梯",
-      "gui.technology.stone_tool_workbench_gui.label_bnbtnumbertick": "\u003cBNBT:number:tick\u003e",
       "gui.technology.choose_life.button_empty2": "\u003c",
+      "gui.technology.stone_tool_workbench_gui.label_bnbtnumbertick": "\u003cBNBT:number:tick\u003e",
       "gui.technology.choose_life.button_empty1": "\u003e",
       "gui.technology.choose_life.button_empty4": "\u003e",
       "block.technology.primitiveancientbutton": "原始古木按钮",
@@ -11821,6 +11822,7 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_5_level": "\u003cBNBT:number:slot_5_level\u003e",
       "block.technology.strippedprimitiveancientlog": "剥皮原始古木原木",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_6_id": "\u003cBNBT:number:slot_6_id\u003e",
+      "item.technology.granitecrushedstone_kuijia_armor_armor_chestplate": "Granitecrushedstone_kuijia_armor Chestplate",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_3_id": "\u003cBNBT:number:slot_3_id\u003e",
       "item.technology.sharprockfragments": "锋利的岩石碎片",
       "block.technology.primitiveancientfence": "原始古木栅栏",
@@ -11841,7 +11843,6 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_5_id": "\u003cBNBT:number:slot_5_id\u003e",
       "block.technology.primitiveancientlog": "原始古木原木",
       "tooltip.technology.tooltip_1": "§7石器时代",
-      "item.technology.granitecrushedstone_kuijia_armor_leggings": "Granitecrushedstone_kuijia Leggings",
       "item.technology.fibercloth": "纤维布",
       "gui.technology.choose_life.button_empty": "\u003c",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberwater_progress_bar": "\u003cBNBT:number:Water_progress_bar\u003e",
@@ -11868,8 +11869,8 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_7_level": "\u003cBNBT:number:slot_7_level\u003e",
       "item.technology.woodstick": "木棍",
       "name.RING": "戒指",
+      "item.technology.granitecrushedstone_kuijia_armor_armor_helmet": "Granitecrushedstone_kuijia_armor Helmet",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_9_level": "\u003cBNBT:number:slot_9_level\u003e",
-      "item.technology.granitecrushedstone_kuijia_armor_chestplate": "Granitecrushedstone_kuijia Chestplate",
       "block.technology.primitiveancientdoor": "原始古木门",
       "gui.technology.choose_life.button_que_ding": "确定",
       "block.technology.primitiveworks": "原始木桌",
@@ -11877,7 +11878,6 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberitem_true": "\u003cBNBT:number:item_true\u003e",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_7_id": "\u003cBNBT:number:slot_7_id\u003e",
       "name.TRINKET": "饰品",
-      "item.technology.granitecrushedstone_kuijia_armor_helmet": "Granitecrushedstone_kuijia Helmet",
       "item.technology.amositefragments": "铁矿石碎片",
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_6_level": "\u003cBNBT:number:slot_6_level\u003e",
       "block.technology.spiritualbarrier": "秘境封闭结界",
@@ -11913,6 +11913,7 @@
       "gui.technology.stone_tool_workbench_gui.label_bnbtnumberslot_0_id": "\u003cBNBT:number:slot_0_id\u003e",
       "block.technology.primitiveancientgrassblock": "原始草方块",
       "item.technology.tiger_spawn_egg": "煞虎 生成蛋",
+      "item.technology.granitecrushedstone_kuijia_armor_armor_boots": "Granitecrushedstone_kuijia_armor Boots",
       "item.technology.stoneknifeparts": "石刀零件",
       "biome.technology.primitiveplain": "原始平原",
       "item.technology.gravelaxe": "燧石斧",
@@ -11928,7 +11929,6 @@
       "gui.technology.primitiveworks_1_gui.label_bnbtnumberslot_4_id": "\u003cBNBT:number:slot_4_id\u003e",
       "item.technology.fibrethread": "纤维线",
       "gui.technology.stone_tool_workbench_gui.label_bnbtnumberslot_2_level": "\u003cBNBT:number:slot_2_level\u003e",
-      "item.technology.granitecrushedstone_kuijia_armor_boots": "Granitecrushedstone_kuijia Boots",
       "gui.technology.stone_tool_workbench_gui.button_zhi_zuo": "制作"
     }
   },
