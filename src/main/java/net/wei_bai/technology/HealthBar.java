@@ -19,7 +19,6 @@ import static net.wei_bai.technology.TechnologyMod.MODID;
 
 public class HealthBar implements IIngameOverlay {
 
-	private static final ResourceLocation main_hud = new ResourceLocation(MODID, "textures/gui/main_hud_0.png");
 	private static final ResourceLocation fullHealthBarLocation = new ResourceLocation(MODID, "textures/gui/main_hud_1.png");
 	private static final ResourceLocation witherBarLocation = new ResourceLocation(MODID, "textures/gui/main_hud_1_wither.png");
 	private static final ResourceLocation poisonBarLocation = new ResourceLocation(MODID, "textures/gui/main_hud_1_poison.png");
@@ -85,11 +84,13 @@ public class HealthBar implements IIngameOverlay {
 		//double max_health = (int) player.getMaxHealth();
 		double max_health =(((player.getCapability(TechnologyModVariables.PLAYER_VARIABLES_CAPABILITY, null)
 				.orElse(new TechnologyModVariables.PlayerVariables())).max_health));
-
+		Player entity = Minecraft.getInstance().player;
 
 		String text1 = "" + (new java.text.DecimalFormat("##.###").format(max_health));
 		String text2 = "" + (new java.text.DecimalFormat("##.###").format(Math.ceil(player.getHealth() * 10) / 10));
 		String text = text2 + "/" + text1;
+
+
 
 		Minecraft.getInstance().font.draw(poseStack,  text2 + "/" + text1, w - font.width(text)-20, y + 1, 0xFF0000);
 		RenderSystem.setShaderTexture(0, guiIconsLocation);
@@ -114,6 +115,9 @@ public class HealthBar implements IIngameOverlay {
 		RenderSystem.setShaderColor(1.0F, 1.0F, 1.0F, 1.0F);
 		float health = player.getHealth();
 		float maxHealth = player.getMaxHealth();
+		Font font=Minecraft.getInstance().font;
+		Player entity = Minecraft.getInstance().player;
+		String player_name= entity.getDisplayName().getString();
 		// Calculate bar proportions
 		float healthProportion;
 		float intermediateProportion;
@@ -135,21 +139,21 @@ public class HealthBar implements IIngameOverlay {
 		// 血皮
 		RenderSystem.setShaderTexture(0, currentBarLocation);
 		GuiComponent.blit(poseStack,
-				48, 3,
+				(font.width(player_name)+18), 3,
 				0, 0,
 				healthWidth, 17,
 				181, 17);
 		// 受伤血
 		RenderSystem.setShaderTexture(0, intermediateHealthBarLocation);
 		GuiComponent.blit(poseStack,
-				48 + healthWidth, 3,
+				(font.width(player_name)+18) + healthWidth, 3,
 				healthWidth, 0,
 				intermediateWidth, 17,
 				181, 17);
 		// 血底
 		RenderSystem.setShaderTexture(0, emptyHealthBarLocation);
 		GuiComponent.blit(poseStack,
-				48 + healthWidth + intermediateWidth, 3,
+				(font.width(player_name)+18) + healthWidth + intermediateWidth, 3,
 				healthWidth + intermediateWidth, 0,
 				181 - healthWidth - intermediateWidth, 17,
 				181, 17);

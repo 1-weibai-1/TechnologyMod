@@ -117,7 +117,7 @@ public class TechnologyModItems {
 	public static final RegistryObject<Item> DAOLIANGGRASS = doubleBlock(TechnologyModBlocks.DAOLIANGGRASS, TechnologyModTabs.TAB_TECHNOLOGYTAB);
 	public static final RegistryObject<Item> DAOLIANGGRASS_ITEMS = REGISTRY.register("daolianggrass_items", () -> new DaolianggrassItemsItem());
 	public static final RegistryObject<Item> DAOLIANGRICE = REGISTRY.register("daoliangrice", () -> new DaoliangriceItem());
-	public static final RegistryObject<Item> GOOD_KARMA_BOTTLE = REGISTRY.register("good_karma_bottle", () -> new GoodKarmaBottleItem());
+	public static final RegistryObject<Item> GOOD_KARMA_BOTTLE = REGISTRY.register("good_karma_bottle", () -> new GoodKarmaBottleItem());//功德瓶
 	public static final RegistryObject<Item> TIGER_SPAWN_EGG = REGISTRY.register("tiger_spawn_egg", () -> new ForgeSpawnEggItem(TechnologyModEntities.TIGER, -26368, -13312, new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 	public static final RegistryObject<Item> TECHNOLOGYITEM = REGISTRY.register("technologyitem", () -> new TechnologyitemItem());
 	public static final RegistryObject<Item> CREATIVEEVOLUTIONJADEBUTTERFLY = REGISTRY.register("creativeevolutionjadebutterfly", () -> new CreativeevolutionjadebutterflyItem());

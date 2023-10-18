@@ -4,6 +4,7 @@
  */
 package net.wei_bai.technology.init;
 
+import net.wei_bai.technology.client.renderer.GoodKarmaRenderer;
 import net.wei_bai.technology.client.renderer.TigerRenderer;
 
 import net.minecraftforge.fml.common.Mod;
@@ -16,5 +17,7 @@ public class TechnologyModEntityRenderers {
 	@SubscribeEvent
 	public static void registerEntityRenderers(EntityRenderersEvent.RegisterRenderers event) {
 		event.registerEntityRenderer(TechnologyModEntities.TIGER.get(), TigerRenderer::new);
+		event.registerEntityRenderer(TechnologyModEntities.GOOD_KARMA_ENTITY.get(), GoodKarmaRenderer::new);
+
 	}
 }

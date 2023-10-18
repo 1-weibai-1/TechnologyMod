@@ -58,7 +58,28 @@ public class HealthbarsOverlay {
 						0, 0,
 						230, 53,
 						230, 53);
+				//font.width(player_name)
 
+				RenderSystem.setShaderTexture(0, new ResourceLocation("technology:textures/gui/main_name_zhon.png"));
+				Minecraft.getInstance().gui.blit(event.getMatrixStack(),
+						6,  0,
+						0, 0,
+						font.width(player_name)+2, 23,
+						100, 23);
+				RenderSystem.setShaderTexture(0, new ResourceLocation("technology:textures/gui/main_name_you.png"));
+				Minecraft.getInstance().gui.blit(event.getMatrixStack(),
+						6+ font.width(player_name)+2,  0,
+						0, 0,
+						6, 23,
+						6, 23);
+
+				RenderSystem.setShaderTexture(0, new ResourceLocation("technology:textures/gui/main_hud_shenming.png"));
+				Minecraft.getInstance().gui.blit(event.getMatrixStack(),
+						(font.width(player_name)+17),  0,
+						0, 0,
+						183, 23,
+						183, 23);
+				//修为
 				RenderSystem.setShaderTexture(0, new ResourceLocation("technology:textures/gui/main_hud_0_01z.png"));
 				Minecraft.getInstance().gui.blit(event.getMatrixStack(),
 						0,  25,
@@ -77,8 +98,8 @@ public class HealthbarsOverlay {
 						0, 0,
 						font.width(text1), 19,
 						79, 19);
-
 				//修为
+				//修为名称
 				RenderSystem.setShaderTexture(0, new ResourceLocation("technology:textures/gui/main_hud_0_02_2.png"));
 				Minecraft.getInstance().gui.blit(event.getMatrixStack(),
 						font.width(text1)+17, 27,
@@ -97,9 +118,10 @@ public class HealthbarsOverlay {
 						0,0,
 						127, 19,
 						127, 19);
-				//修为
+				//修为名称
 				Minecraft.getInstance().font.draw(event.getMatrixStack(), text1, (font.width(text1)+6)-font.width(text1), 30.5F, 0);
-				Minecraft.getInstance().font.draw(event.getMatrixStack(), player_name, 10, 7.5F, 0);
+
+				Minecraft.getInstance().font.draw(event.getMatrixStack(), player_name, 7, 7.5F, 0);
 
 			}
 			RenderSystem.depthMask(true);
